@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EmployeeManagementSystem/bin/Debug/net6.0
+/.vs/EmployeeManagementSystem/FileContentIndex
+/EmployeeManagementSystem/obj
+/.vs/UPIEMSTask/v17
+/.vs/UPIEMSTask/FileContentIndex
